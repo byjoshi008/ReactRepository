@@ -1,0 +1,13 @@
+.addauthorform {
+    width: 80%;
+    margin: 50px 10%;
+}
+
+.addauthorform_input {
+    margin-bottom: 20px;
+}
+
+.addauthorform_input>label {
+    font-weight: 500;
+    display: block;
+}
