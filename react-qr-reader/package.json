@@ -37,7 +37,7 @@
     "del": "^2.2.2",
     "eslint": "^2.13.1",
     "eslint-plugin-react": "^5.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.6.1",
     "gulp-inline-str": "^0.1.0",
